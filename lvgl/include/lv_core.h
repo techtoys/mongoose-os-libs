@@ -8,7 +8,7 @@
 extern "C" {
 #endif
 
-void lv_core_init(void);
+void mgos_lvgl_init(void);
 
 #ifdef __cplusplus
 }
